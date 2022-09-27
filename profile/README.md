@@ -1,4 +1,4 @@
-<p align="center"><img src="./src/dog.jpg" width="100%"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/akinodev/.github/main/profile/src/dog.jpg" width="100%"/></p>
 
 <h1 align="center">AkinoDev - 柴兽居</h1>
 
